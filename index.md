@@ -1,0 +1,25 @@
+---
+# https://vitepress.dev/reference/default-theme-home-page
+layout: home
+
+hero:
+  name: "两不疑"
+  text: "结发为夫妻 恩爱两不疑"
+  tagline: 这是一封离别信~
+  actions:
+    - theme: brand
+      text: 去
+      link: /markdown-examples
+    - theme: alt
+      text: 留
+      link: /api-examples
+
+features:
+  - title: 夏天的风
+    details: 温柔懒懒的海风 吹到高高的山峰 温的风 山的风...
+  - title: 越来越不懂
+    details: 得不到的就更加爱 太容易来的就不理睬...
+  - title: 笨蛋
+    details: 我慢慢学做一个笨蛋 视而不见也学会心软...
+---
+
