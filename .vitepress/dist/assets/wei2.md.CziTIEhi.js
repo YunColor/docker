@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,l as o}from"./chunks/framework.CzKXIYwy.js";const h=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"wei2.md","filePath":"wei2.md"}'),s={name:"wei2.md"},n=o("p",null,"1",-1),r=[n];function c(i,_,d,l,p,m){return a(),t("div",null,r)}const u=e(s,[["render",c]]);export{h as __pageData,u as default};
