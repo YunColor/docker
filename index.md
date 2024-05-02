@@ -1,18 +1,14 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
-
+head:
+  - - meta
+    - name: description
+      content: hello
+  - - meta
+    - name: keywords
+      content: super duper SEO
 hero:
-  name: "两不疑"
-  text: "结发为夫妻 恩爱两不疑"
-  tagline: 这是一封离别信~
-  actions:
-    - theme: brand
-      text: 去
-      link: /markdown-examples
-    - theme: alt
-      text: 留
-      link: /api-examples
+  name: ""
 
 features:
   - title: 夏天的风
@@ -22,4 +18,3 @@ features:
   - title: 笨蛋
     details: 我慢慢学做一个笨蛋 视而不见也学会心软...
 ---
-
