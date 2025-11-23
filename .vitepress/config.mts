@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
+  base: "/docker/",
   title: "两不疑",
   head: [['link', { rel: 'icon', href: '/public/icon.jpg' }]],
   themeConfig: {
