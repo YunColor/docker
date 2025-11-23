@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as s,j as r}from"./chunks/framework.CW7OL2xm.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"stay.md","filePath":"stay.md"}'),o={name:"stay.md"};function n(c,t,p,d,l,i){return s(),a("div",null,[...t[0]||(t[0]=[r("p",null,"1",-1)])])}const f=e(o,[["render",n]]);export{_ as __pageData,f as default};

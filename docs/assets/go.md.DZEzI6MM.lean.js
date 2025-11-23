@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as a,j as r}from"./chunks/framework.CW7OL2xm.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"go.md","filePath":"go.md"}'),s={name:"go.md"};function n(c,e,p,d,l,i){return a(),o("div",null,[...e[0]||(e[0]=[r("p",null,"2",-1)])])}const f=t(s,[["render",n]]);export{_ as __pageData,f as default};
